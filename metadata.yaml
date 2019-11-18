@@ -1,0 +1,30 @@
+_repo: Growing-Season_60693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, F. L. (Floyd L.)
+    aliases:
+    - Wallace, Floyd Lee
+    - Wallace, Floyd L.
+    birthdate: 1915
+    deathdate: 2004
+    gutenberg_agent_id: '26832'
+    url: http://www.gutenberg.org/2009/agents/26832
+    wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
+description: ''
+gutenberg_issued: '2019-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Attempted murder -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Growing Season
+url: http://www.gutenberg.org/ebooks/60693
