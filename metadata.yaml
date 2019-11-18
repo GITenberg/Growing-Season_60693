@@ -1,5 +1,8 @@
 _repo: Growing-Season_60693
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60693-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, F. L. (Floyd L.)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26832
     wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60693#Growing-Season
 gutenberg_issued: '2019-11-15'
 gutenberg_type: Text
 identifiers:
